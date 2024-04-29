@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: #E2DFD0;
+    color: white;
+}
+#stopWatchBox{
+    border: 5px solid;
+    width: 400px;
+    border-radius: 20px;
+    background-color: #A87676;
+    padding: 20px;
+    
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+#time{
+    font-size: 40px;
+}
+
+.orbitron {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+#time{
+    background-color: black;
+    padding:0 10px 0 10px  ;
+    margin-bottom: 10px;
+}
